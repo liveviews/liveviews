@@ -3,6 +3,7 @@
 This is a list of libraries for creating web applications that handle user interaction on the server.  The list is named after Phoenix LiveView, which has popularized the idea and is its most prominent implementation.  The list strives to be complete rather than [awesome](https://github.com/sindresorhus/awesome).  You may see libraries that are not maintained or ready for production.
 
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client).  C#.  "Build client web apps with C#."
+* [Drab](https://github.com/grych/drab).  Elixir.  "Remote controlled frontend framework for Phoenix."
 * [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  Crystal.  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
 * [Korolev](https://github.com/fomkin/korolev).  Scala.  "Single Page Applications running on the server side."
 * [Phoenix LiveView](https://github.com/phoenixframework/phoenix\_live\_view).  Elixir.  "Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML."
