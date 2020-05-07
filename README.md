@@ -8,6 +8,7 @@ This is a list of libraries for creating web applications that handle user inter
 * [Phoenix LiveView](https://github.com/phoenixframework/phoenix\_live\_view).  Elixir.  "Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML."
 * [Reactor](https://github.com/edelvalle/reactor).  Python.  "Phoenix LiveView but for Django."
 * [RenderSync](https://github.com/chrismccord/render\_sync).  Ruby.  "Real-time partials with Rails."
+* [StimulusReflex](https://github.com/hopsoft/stimulus_reflex).  Ruby.  "Build reactive applications with the Rails tooling you already know and love."
 
 ## License
 
