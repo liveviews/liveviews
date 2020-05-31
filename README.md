@@ -10,6 +10,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client).  "Build client web apps with C#."
 
+### Clojure
+
+* [Ripley](https://github.com/tatut/ripley). "Ripley is a fast server-side rendered web UI toolkit with live components."
+
 ### Crystal
 
 * [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  Crystal.  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
