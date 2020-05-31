@@ -10,6 +10,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  Crystal.  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
 * [Korolev](https://github.com/fomkin/korolev).  Scala.  "Single Page Applications running on the server side."
 * [Phoenix LiveView](https://github.com/phoenixframework/phoenix\_live\_view).  Elixir.  "Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML."
+* [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
 * [Reactor](https://github.com/edelvalle/reactor).  Python.  "Phoenix LiveView but for Django."
 * [RenderSync](https://github.com/chrismccord/render\_sync).  Ruby.  "Real-time partials with Rails."
 * [StimulusReflex](https://github.com/hopsoft/stimulus_reflex).  Ruby.  "Build reactive applications with the Rails tooling you already know and love."
