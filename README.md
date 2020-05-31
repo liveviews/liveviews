@@ -28,6 +28,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 ### Python
 
 * [Reactor](https://github.com/edelvalle/reactor).  "Phoenix LiveView but for Django."
+* [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
 
 ### Ruby
 
