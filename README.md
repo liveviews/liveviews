@@ -40,6 +40,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Korolev](https://github.com/fomkin/korolev).  "Single Page Applications running on the server side."
 
+## Contributing
+
+You contributions are welcome.  Please be sure the library you are submitting meets the definition of "live view" above.
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
