@@ -31,6 +31,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 ### Ruby
 
+* [Fie](https://github.com/raen79/fie).  "Fie is a Rails-centric frontend framework running over a permanent WebSocket connection."
 * [RenderSync](https://github.com/chrismccord/render\_sync).  "Real-time partials with Rails."
 * [StimulusReflex](https://github.com/hopsoft/stimulus_reflex).  "Build reactive applications with the Rails tooling you already know and love."
 
