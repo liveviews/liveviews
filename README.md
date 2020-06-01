@@ -1,6 +1,6 @@
 # LiveViews
 
-This is a list of libraries for creating web applications that handle user interaction with the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) on the server.  These libraries take a different approach from older server-driven browser UIs that simulated a desktop GUI toolkit.  They do not lock the developer into working with predefined components; they operate at the level of HTML (DOM) rather than GUI widgets.
+This is a list of libraries for creating web applications that handle user interaction with the [DOM](https://en.wikipedia.org/wiki/Document\_Object\_Model) on the server.  These libraries take a different approach from older server-driven browser UIs that simulated a desktop GUI toolkit.  They do not lock the developer into working with predefined components; they operate at the level of HTML (DOM) rather than GUI widgets.
 
 The list strives to be complete rather than [awesome](https://github.com/sindresorhus/awesome).  You may see libraries that are not maintained or ready for production.
 
@@ -42,7 +42,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Fie](https://github.com/raen79/fie).  "Fie is a Rails-centric frontend framework running over a permanent WebSocket connection."
 * [RenderSync](https://github.com/chrismccord/render\_sync).  "Real-time partials with Rails."
-* [StimulusReflex](https://github.com/hopsoft/stimulus_reflex).  "Build reactive applications with the Rails tooling you already know and love."
+* [StimulusReflex](https://github.com/hopsoft/stimulus\_reflex).  "Build reactive applications with the Rails tooling you already know and love."
 
 ### Scala
 
