@@ -31,7 +31,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 ### PHP
 
-* [LiveWire](https://laravel-livewire.com/docs/quickstart). Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel. Livewire relies solely on AJAX requests to do all its server communication. This means it's as reliable and scalable as your current setup. 
+* [Livewire](https://github.com/livewire/livewire).  "A full-stack framework for Laravel that takes the pain out of building dynamic UIs."  Relies solely on Ajax requests.
 
 ### Python
 
