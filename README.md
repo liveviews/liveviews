@@ -29,6 +29,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
 * [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Just like Phoenix LiveView but in TypeScript!"
 
+### PHP
+
+* [LiveWire](https://laravel-livewire.com/docs/quickstart). Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel. Livewire relies solely on AJAX requests to do all its server communication. This means it's as reliable and scalable as your current setup. 
+
 ### Python
 
 * [Reactor](https://github.com/edelvalle/reactor).  "Phoenix LiveView but for Django."
