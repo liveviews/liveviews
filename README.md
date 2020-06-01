@@ -13,6 +13,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 ### Clojure
 
 * [Ripley](https://github.com/tatut/ripley). "Ripley is a fast server-side rendered web UI toolkit with live components."
+* [liveview\-clj](https://github.com/prepor/liveview-clj). "Server-side HTML rendering with reactive updates. Massively inspired by Elixir's LiveView"
 
 ### Crystal
 
