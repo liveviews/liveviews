@@ -16,7 +16,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 ### Crystal
 
-* [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  Crystal.  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
+* [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
 
 ### Elixir
 
