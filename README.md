@@ -23,6 +23,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Drab](https://github.com/grych/drab).  "Remote controlled frontend framework for Phoenix."
 * [Phoenix LiveView](https://github.com/phoenixframework/phoenix\_live\_view).  "Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML."
 
+### Haskell
+
+* [Replica](https://github.com/pkamenarsky/replica).  "A remote virtual DOM library for Haskell."
+
 ### JavaScript/TypeScript
 
 * [Caldera](https://github.com/calderajs/caldera-react).  JavaScript (Node.js).  "Phoenix LiveView for Node and React ."
