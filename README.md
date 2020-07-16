@@ -33,6 +33,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
 * [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Just like Phoenix LiveView but in TypeScript!"
 
+### Kotlin
+
+* [Kweb](http://docs.kweb.io/). "A new way to create beautiful, efficient, and scalable websites in Kotlin"
+
 ### PHP
 
 * [Livewire](https://github.com/livewire/livewire).  "A full-stack framework for Laravel that takes the pain out of building dynamic UIs."  Relies solely on Ajax requests.
