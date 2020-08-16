@@ -27,6 +27,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Replica](https://github.com/pkamenarsky/replica).  "A remote virtual DOM library for Haskell."
 
+### Java
+
+* [Vaadin](https://vaadin.com). "Full stack framework for building web apps in Java."
+
 ### JavaScript/TypeScript
 
 * [Caldera](https://github.com/calderajs/caldera-react).  JavaScript (Node.js).  "Phoenix LiveView for Node and React ."
