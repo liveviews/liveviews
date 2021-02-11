@@ -18,7 +18,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 ### Common Lisp
 
 * [CLOG](https://github.com/rabbibotton/clog).  "The Common Lisp Omnificent GUI, CLOG for short, uses web technology to produce graphical user interfaces for applications locally or remotely."
-* [ISSR](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary. [todo-app tutorial](http://cjackson.tk/todo-tutorial).
+* [ISSR](https://github.com/interactive-ssr/client/blob/master/main.org/).  ISSR allows you to make interactive web pages without client-side scripting.  "No knowledge about Javascript or DOM is necessary."  [To-do app tutorial](http://cjackson.tk/todo-tutorial).
 
 ### Crystal
 
