@@ -15,6 +15,11 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [liveview\-clj](https://github.com/prepor/liveview-clj). "Server-side HTML rendering with reactive updates. Massively inspired by Elixir's LiveView."
 * [Ripley](https://github.com/tatut/ripley). "Ripley is a fast server-side rendered web UI toolkit with live components."
 
+### Common Lisp
+
+* [CLOG](https://github.com/rabbibotton/clog) - The Common Lisp Omnificent GUI. Uses web technology to produce graphical user interfaces for applications locally or remotely.
+* [ISSR](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary. [todo-app tutorial](http://cjackson.tk/todo-tutorial).
+
 ### Crystal
 
 * [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
