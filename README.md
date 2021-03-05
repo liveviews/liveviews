@@ -55,6 +55,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Reactor](https://github.com/edelvalle/reactor).  "Phoenix LiveView but for Django."
 * [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
+* [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
 
 ### Ruby
 
