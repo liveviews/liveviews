@@ -1,6 +1,6 @@
 # LiveViews
 
-This is a list of libraries for creating web applications that handle user interaction with the [DOM](https://en.wikipedia.org/wiki/Document\_Object\_Model) on the server.  These libraries take a different approach from older server-driven browser UIs that simulated a desktop GUI toolkit.  They do not lock the developer into working with predefined components; they operate at the level of HTML (DOM) rather than GUI widgets.
+This is a list of libraries for creating web applications that handle user interaction with the [DOM](https://en.wikipedia.org/wiki/Document\_Object\_Model) on the server.  These libraries take a different approach from older server-driven browser UIs that simulated a desktop GUI toolkit.  They do not lock the developer into working with predefined components; most operate at the level of HTML (DOM) rather than GUI widgets.
 
 The list strives to be complete rather than [awesome](https://github.com/sindresorhus/awesome).  You may see libraries that are not maintained or ready for production.
 
@@ -53,11 +53,11 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 ### Python
 
-* [Flexx](https://github.com/flexxui/flexx). "Write desktop and web apps in pure Python"
-* [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python"
+* [Flexx](https://github.com/flexxui/flexx).  (Widget-centric.)  "Write desktop and web apps in pure Python."
+* [IDOM](https://github.com/idom-team/idom).  "Create highly interactive web pages purely in Python."
 * [Reactor](https://github.com/edelvalle/reactor).  "Phoenix LiveView but for Django."
-* [REMI](https://github.com/dddomodossola/remi). "Remi is a GUI library for Python applications that gets rendered in web browsers."
-* [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
+* [REMI](https://github.com/dddomodossola/remi).  (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
+* [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet).  "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
 
 ### Ruby
