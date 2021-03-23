@@ -58,6 +58,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
 * [REMI](https://github.com/dddomodossola/remi). "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python"
+* [Flexx](https://github.com/flexxui/flexx). "Write desktop and web apps in pure Python"
 
 ### Ruby
 
