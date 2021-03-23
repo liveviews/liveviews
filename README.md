@@ -53,12 +53,12 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 ### Python
 
-* [Reactor](https://github.com/edelvalle/reactor).  "Phoenix LiveView but for Django."
-* [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
-* [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
-* [REMI](https://github.com/dddomodossola/remi). "Remi is a GUI library for Python applications that gets rendered in web browsers."
-* [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python"
 * [Flexx](https://github.com/flexxui/flexx). "Write desktop and web apps in pure Python"
+* [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python"
+* [Reactor](https://github.com/edelvalle/reactor).  "Phoenix LiveView but for Django."
+* [REMI](https://github.com/dddomodossola/remi). "Remi is a GUI library for Python applications that gets rendered in web browsers."
+* [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
+* [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
 
 ### Ruby
 
