@@ -57,6 +57,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
 * [REMI](https://github.com/dddomodossola/remi). "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python"
+* [Flexx](https://github.com/flexxui/flexx). "Write desktop and web apps in pure Python"
 
 ### Ruby
 
