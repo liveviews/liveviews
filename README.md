@@ -70,9 +70,9 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Korolev](https://github.com/fomkin/korolev).  "Single Page Applications running on the server side."
 
-### VLang
+### V
 
-* [Vlang LiveView](https://github.com/atomkirk/v-playground). Simple implementation of Phoenix LiveView in Vlang.
+* [Simple V LiveView Clone](https://github.com/atomkirk/v-playground).  A simple implementation of LiveView in V.  A demo, not a library.
 
 ## Contributing
 
