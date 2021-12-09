@@ -29,6 +29,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Drab](https://github.com/grych/drab).  "Remote controlled frontend framework for Phoenix."
 * [Phoenix LiveView](https://github.com/phoenixframework/phoenix\_live\_view).  "Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML."
 
+### Go (golang)
+
+ * [live](https://github.com/jfyne/live). Real-time user experiences with server-rendered HTML in Go. Inspired by and borrowing from Phoenix LiveViews.
+
 ### Haskell
 
 * [Replica](https://github.com/pkamenarsky/replica).  "A remote virtual DOM library for Haskell."
