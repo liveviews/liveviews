@@ -73,6 +73,11 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [RenderSync](https://github.com/chrismccord/render\_sync).  "Real-time partials with Rails."
 * [StimulusReflex](https://github.com/hopsoft/stimulus\_reflex).  "Build reactive applications with the Rails tooling you already know and love."
 
+### Rust
+
+* [axum-live-view](https://github.com/davidpdrsn/axum-live-view). "axum-live-view allows you to build rich, real-time experiences with server-rendered HTML. This is done entirely in Rust - no JavaScript or WASM needed."
+* [Dioxus](https://github.com/dioxuslabs/dioxus). "Dioxus can be used to deliver webapps, desktop apps, static sites, liveview apps, mobile apps (WIP), and more."
+
 ### Scala
 
 * [Korolev](https://github.com/fomkin/korolev).  "Single Page Applications running on the server side."
