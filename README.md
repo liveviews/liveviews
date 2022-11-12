@@ -59,6 +59,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [REMI](https://github.com/dddomodossola/remi).  (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet).  "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
+* [Django-Unicorn](https://github.com/adamghill/django-unicorn).  "The magical full-stack framework for Django."
 
 ### Ruby
 
