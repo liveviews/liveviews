@@ -40,9 +40,9 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 ### JavaScript/TypeScript
 
 * [Caldera](https://github.com/calderajs/caldera-react).  JavaScript (Node.js).  "Phoenix LiveView for Node and React ."
-* [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
-* [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Just like Phoenix LiveView but in TypeScript!"
 * [LiveViewJS](https://github.com/floodfx/liveviewjs). TypeScript (Node.js/Deno). "LiveView-based library for reactive app development in NodeJS and Deno"
+* [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
+* [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Build hybrid SSG and SSR realtime SPA/MPA with Typescript"
 
 ### Kotlin
 
@@ -60,6 +60,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [REMI](https://github.com/dddomodossola/remi).  (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet).  "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
+* [Django Hypergen](https://github.com/runekaagaard/django-hypergen/).  "Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python. 💫"
 
 ### Ruby
 
