@@ -42,7 +42,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Caldera](https://github.com/calderajs/caldera-react).  JavaScript (Node.js).  "Phoenix LiveView for Node and React ."
 * [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
 * [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Just like Phoenix LiveView but in TypeScript!"
-* [LiveViewJS](https://github.com/floodfx/liveviewjs). TypesScript (Node.js). "A backend implementation of Phoenix LiveView in Typescript"
+* [LiveViewJS](https://github.com/floodfx/liveviewjs). TypeScript (Node.js/Deno). "A backend implementation of Phoenix LiveView in Typescript"
 
 ### Kotlin
 
