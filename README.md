@@ -68,6 +68,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [RenderSync](https://github.com/chrismccord/render\_sync).  "Real-time partials with Rails."
 * [StimulusReflex](https://github.com/hopsoft/stimulus\_reflex).  "Build reactive applications with the Rails tooling you already know and love."
 
+### Rust
+
+* [Dioxus](https://github.com/dioxuslabs/dioxus). "User interfaces that run anywhere. Written in Rust, inspired by React."
+
 ### Scala
 
 * [Korolev](https://github.com/fomkin/korolev).  "Single Page Applications running on the server side."
