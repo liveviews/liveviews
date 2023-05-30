@@ -24,6 +24,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [jgaskins/live\_view](https://github.com/jgaskins/live\_view).  "A Crystal abstract class for building server-rendered HTML components with client-side interactivity."
 
+### Rust
+
+* [Dioxus Liveview](https://github.com/DioxusLabs/dioxus/tree/master/packages/liveview). "`dioxus-liveview` provides adapters for running the Dioxus VirtualDom over a WebSocket connection."
+
 ### Elixir
 
 * [Drab](https://github.com/grych/drab).  "Remote controlled frontend framework for Phoenix."
