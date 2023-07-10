@@ -29,6 +29,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Drab](https://github.com/grych/drab).  "Remote controlled frontend framework for Phoenix."
 * [Phoenix LiveView](https://github.com/phoenixframework/phoenix\_live\_view).  "Phoenix LiveView enables rich, real-time user experiences with server-rendered HTML."
 
+### Go (golang)
+
+ * [live](https://github.com/jfyne/live). Real-time user experiences with server-rendered HTML in Go. Inspired by and borrowing from Phoenix LiveViews.
+
 ### Haskell
 
 * [Replica](https://github.com/pkamenarsky/replica).  "A remote virtual DOM library for Haskell."
@@ -40,9 +44,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 ### JavaScript/TypeScript
 
 * [Caldera](https://github.com/calderajs/caldera-react).  JavaScript (Node.js).  "Phoenix LiveView for Node and React ."
+* [LiveViewJS](https://github.com/floodfx/liveviewjs). TypesScript (Node.js). "A backend implementation of Phoenix LiveView in Typescript"
 * [Purview](https://github.com/karthikv/purview).  JavaScript (Node.js).  "A server-side component framework. What if your React components ran on the server-side?"
-* [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Just like Phoenix LiveView but in TypeScript!"
 * [Nanoweb](https://nanoweb.js.org/). TypeScript (Node.js). "Minimal library for building server-centric multi page web applications that behave like SPAs"
+* [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Build hybrid SSG and SSR realtime SPA/MPA with Typescript"
 
 ### Kotlin
 
@@ -60,6 +65,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [REMI](https://github.com/dddomodossola/remi).  (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet).  "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom).  "WDOM is a Python GUI library for browser-based desktop applications."
+* [Django Hypergen](https://github.com/runekaagaard/django-hypergen/).  "Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python. 💫"
 
 ### Ruby
 
