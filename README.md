@@ -63,7 +63,6 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Flexx](https://github.com/flexxui/flexx). (Widget-centric.)  "Write desktop and web apps in pure Python."
 * [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python."
 * [Reactor](https://github.com/edelvalle/reactor). "Phoenix LiveView but for Django."
-* [Reflex](https://github.com/reflex-dev/reflex). "Web apps in pure Python." Previously Pynecone.
 * [REMI](https://github.com/dddomodossola/remi). (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom). "WDOM is a Python GUI library for browser-based desktop applications."
