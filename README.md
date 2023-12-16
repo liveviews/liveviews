@@ -47,7 +47,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [LiveViewJS](https://github.com/floodfx/liveviewjs). TypesScript (Node.js). "A backend implementation of Phoenix LiveView in Typescript"
 * [Purview](https://github.com/karthikv/purview). JavaScript (Node.js). "A server-side component framework. What if your React components ran on the server-side?"
 * [Nanoweb](https://nanoweb.js.org/). TypeScript (Node.js). "Minimal library for building server-centric multi page web applications that behave like SPAs"
-* [TS-LiveView](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Build hybrid SSG and SSR realtime SPA/MPA with Typescript"
+* [ts-liveview](https://github.com/beenotung/ts-liveview). TypeScript (Node.js). "Build hybrid SSG and SSR realtime SPA/MPA with Typescript"
 
 ### Kotlin
 
