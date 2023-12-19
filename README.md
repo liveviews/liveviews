@@ -31,7 +31,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 ### Go (golang)
 
- * [live](https://github.com/jfyne/live). Real-time user experiences with server-rendered HTML in Go. Inspired by and borrowing from Phoenix LiveViews.
+* [live](https://github.com/jfyne/live). Real-time user experiences with server-rendered HTML in Go. Inspired by and borrowing from Phoenix LiveViews.
 
 ### Haskell
 
