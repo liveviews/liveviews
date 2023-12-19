@@ -67,7 +67,8 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom). "WDOM is a Python GUI library for browser-based desktop applications."
 * [Django Hypergen](https://github.com/runekaagaard/django-hypergen/). "Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python. 💫"
-* [Flask-Meld](https://www.flask-meld.dev/)"Flask-Meld is a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript"
+* [Flask-Meld](https://www.flask-meld.dev/). "Flask-Meld is a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript"
+* [pyview](https://github.com/ogrodnek/pyview). "A Python implementation of Phoenix LiveView"
 
 ### Ruby
 
