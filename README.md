@@ -69,6 +69,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Django Hypergen](https://github.com/runekaagaard/django-hypergen/). "Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python. 💫"
 * [Flask-Meld](https://www.flask-meld.dev/). "Flask-Meld is a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript"
 * [pyview](https://github.com/ogrodnek/pyview). "A Python implementation of Phoenix LiveView"
+* [liveview](https://github.com/abravalheri/liveview). "Real time browser <> ASGI communication / re-rendering for Python (inspired by Phoenix Live View)"
 
 ### Ruby
 
