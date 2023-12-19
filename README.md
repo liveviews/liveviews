@@ -93,7 +93,6 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 
 * [Turbo](https://turbo.hotwired.dev/). "The speed of a single-page web application without having to write any JavaScript."
 
-
 ## Contributing
 
 You contributions are welcome. Please be sure the library you are submitting meets the definition of "live view" above.
