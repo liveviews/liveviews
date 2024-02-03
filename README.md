@@ -75,7 +75,6 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [dominator](https://github.com/FFY00/dominator). "Control the DOM from Python (PoC!)"
 * [Skink](https://github.com/oksome/Skink). "Control the DOM from Python using Websockets"
 * [portkey](https://github.com/red8012/portkey). "A Python framework for interacting with in-browser DOM via websockets"
-* [Eel](https://github.com/python-eel/Eel). "A little Python library for making simple Electron-like HTML/JS GUI apps"
 
 ### Ruby
 
