@@ -71,6 +71,10 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [pyview](https://github.com/ogrodnek/pyview). "A Python implementation of Phoenix LiveView"
 * [liveview](https://github.com/abravalheri/liveview). "Real time browser <> ASGI communication / re-rendering for Python (inspired by Phoenix Live View)"
 * [starlette_live](https://github.com/alex-oleshkevich/starlette_live). "Live view for Starlette"
+* [jyserver](https://github.com/ftrias/jyserver). "Jyserver Web Framework with Pythonic Javascript Syntax"
+* [dominator](https://github.com/FFY00/dominator). "Control the DOM from Python (PoC!)"
+* [Skink](https://github.com/oksome/Skink). "Control the DOM from Python using Websockets"
+* [portkey](https://github.com/red8012/portkey). "A Python framework for interacting with in-browser DOM via websockets"
 
 ### Ruby
 
