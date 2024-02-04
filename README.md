@@ -75,6 +75,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [dominator](https://github.com/FFY00/dominator). "Control the DOM from Python (PoC!)"
 * [Skink](https://github.com/oksome/Skink). "Control the DOM from Python using Websockets"
 * [portkey](https://github.com/red8012/portkey). "A Python framework for interacting with in-browser DOM via websockets"
+* [turbo-flask](https://github.com/miguelgrinberg/turbo-flask). "Integration of Hotwire's Turbo library with Flask."
 
 ### Ruby
 
