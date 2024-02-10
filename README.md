@@ -77,6 +77,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [portkey](https://github.com/red8012/portkey). "A Python framework for interacting with in-browser DOM via websockets"
 * [turbo-flask](https://github.com/miguelgrinberg/turbo-flask). "Integration of Hotwire's Turbo library with Flask."
 * [wave](https://github.com/h2oai/wave). "Realtime Web Apps and Dashboards for Python and R"
+* [flask-wire](https://github.com/michaelbukachi/flask-wire). "A Flask extension that brings "HTML over the wire" capabilities to Flask"
 
 ### Ruby
 
