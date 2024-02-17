@@ -79,6 +79,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [wave](https://github.com/h2oai/wave). "Realtime Web Apps and Dashboards for Python and R"
 * [flask-wire](https://github.com/michaelbukachi/flask-wire). "A Flask extension that brings "HTML over the wire" capabilities to Flask"
 * [jembe](https://github.com/Jembe/jembe). "Web Framework for development modern web apps using configurable components"
+* [sofi](https://github.com/tryexceptpass/sofi). - "an OS agnostic UI module for Python"
 
 ### Ruby
 
