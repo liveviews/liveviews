@@ -75,6 +75,12 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [dominator](https://github.com/FFY00/dominator). "Control the DOM from Python (PoC!)"
 * [Skink](https://github.com/oksome/Skink). "Control the DOM from Python using Websockets"
 * [portkey](https://github.com/red8012/portkey). "A Python framework for interacting with in-browser DOM via websockets"
+* [turbo-flask](https://github.com/miguelgrinberg/turbo-flask). "Integration of Hotwire's Turbo library with Flask."
+* [wave](https://github.com/h2oai/wave). "Realtime Web Apps and Dashboards for Python and R"
+* [flask-wire](https://github.com/michaelbukachi/flask-wire). "A Flask extension that brings "HTML over the wire" capabilities to Flask"
+* [jembe](https://github.com/Jembe/jembe). "Web Framework for development modern web apps using configurable components"
+* [sofi](https://github.com/tryexceptpass/sofi). - "an OS agnostic UI module for Python"
+* [hyperdiv](https://github.com/hyperdiv/hyperdiv). "Build reactive web UIs in Python"
 
 ### Ruby
 
