@@ -80,6 +80,7 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [flask-wire](https://github.com/michaelbukachi/flask-wire). "A Flask extension that brings "HTML over the wire" capabilities to Flask"
 * [jembe](https://github.com/Jembe/jembe). "Web Framework for development modern web apps using configurable components"
 * [sofi](https://github.com/tryexceptpass/sofi). - "an OS agnostic UI module for Python"
+* [hyperdiv](https://github.com/hyperdiv/hyperdiv). "Build reactive web UIs in Python"
 
 ### Ruby
 
