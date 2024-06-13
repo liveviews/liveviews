@@ -94,8 +94,6 @@ You may see libraries that are not maintained, not ready for production, or both
   "Django template for creating a complete HTML over the Wire site or LiveView."
 - [dominator](https://github.com/FFY00/dominator).
   "Control the DOM from Python (PoC!)"
-- [ReactPy](https://github.com/reactive-python/reactpy).
-  "It's React, but in Python"
 - [jyserver](https://github.com/ftrias/jyserver).
   "Jyserver Web Framework with Pythonic Javascript Syntax"
 - [liveview](https://github.com/abravalheri/liveview).
@@ -106,6 +104,8 @@ You may see libraries that are not maintained, not ready for production, or both
   "A Python implementation of Phoenix LiveView"
 - [Reactor](https://github.com/edelvalle/reactor).
   "Phoenix LiveView but for Django."
+- [ReactPy](https://github.com/reactive-python/reactpy).
+  "It's React, but in Python"
 - [Skink](https://github.com/oksome/Skink).
   "Control the DOM from Python using Websockets"
 - [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet).
