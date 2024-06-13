@@ -1,12 +1,12 @@
 # LiveViews
 
-This is a list of libraries for creating web applications that handle user interaction with the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) on the server.
-These libraries take a different approach from older server-driven browser UIs that simulated a desktop GUI toolkit.
-They do not lock the developer into working with predefined components;
-most operate at the level of HTML (DOM) rather than GUI widgets.
+This is a list of libraries for creating dynamic web applications that handle user interaction with the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) on the server.
+These libraries are different from component-based web UI libraries.
+They operate at the level of HTML rather than GUI widgets,
+which means the developer gets a blank canvas (with its advantages and disadvantages), isn't tied to a particular set of components, and can directly use their knowledge of HTML.
 
 The list strives to be complete rather than [awesome](https://github.com/sindresorhus/awesome).
-You may see libraries that are not maintained or ready for production.
+You may see libraries that are not maintained, not ready for production, or both.
 
 ## List
 
