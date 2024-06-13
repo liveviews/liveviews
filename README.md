@@ -94,8 +94,8 @@ You may see libraries that are not maintained, not ready for production, or both
   "Django template for creating a complete HTML over the Wire site or LiveView."
 * [dominator](https://github.com/FFY00/dominator).
   "Control the DOM from Python (PoC!)"
-* [IDOM](https://github.com/idom-team/idom).
-  "Create highly interactive web pages purely in Python."
+* [ReactPy](https://github.com/reactive-python/reactpy).
+  "It's React, but in Python"
 * [jyserver](https://github.com/ftrias/jyserver).
   "Jyserver Web Framework with Pythonic Javascript Syntax"
 * [liveview](https://github.com/abravalheri/liveview).
