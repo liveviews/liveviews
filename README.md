@@ -62,7 +62,6 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 * [Django LiveView](https://github.com/Django-LiveView/liveview). "Django template for creating a complete HTML over the Wire site or LiveView."
 * [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python."
 * [Reactor](https://github.com/edelvalle/reactor). "Phoenix LiveView but for Django."
-* [REMI](https://github.com/dddomodossola/remi). (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
 * [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet). "Build reactive applications with the django tooling you already know and love."
 * [WDOM](https://github.com/miyakogi/wdom). "WDOM is a Python GUI library for browser-based desktop applications."
 * [Django Hypergen](https://github.com/runekaagaard/django-hypergen/). "Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python. 💫"
