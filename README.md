@@ -60,7 +60,6 @@ The list strives to be complete rather than [awesome](https://github.com/sindres
 ### Python
 
 * [Django LiveView](https://github.com/Django-LiveView/liveview). "Django template for creating a complete HTML over the Wire site or LiveView."
-* [Flexx](https://github.com/flexxui/flexx). (Widget-centric.)  "Write desktop and web apps in pure Python."
 * [IDOM](https://github.com/idom-team/idom). "Create highly interactive web pages purely in Python."
 * [Reactor](https://github.com/edelvalle/reactor). "Phoenix LiveView but for Django."
 * [REMI](https://github.com/dddomodossola/remi). (Widget-centric.)  "Remi is a GUI library for Python applications that gets rendered in web browsers."
