@@ -113,6 +113,7 @@ You may see libraries that are not maintained, not ready for production, or both
 - [starlette_live](https://github.com/alex-oleshkevich/starlette_live).
   "Live view for Starlette"
 - [WDOM](https://github.com/miyakogi/wdom). "WDOM is a Python GUI library for browser-based desktop applications."
+- [Django Unicorn](https://www.django-unicorn.com). " Django Unicorn is a library that enables real-time, reactive components in Django applications using simple Python and HTML, reducing the need for extensive JavaScript."
 
 ### Ruby
 
