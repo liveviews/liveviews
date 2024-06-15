@@ -92,6 +92,8 @@ You may see libraries that are not maintained, not ready for production, or both
   "Take a break from javascript. Write server-rendered reactive HTML liveviews for Django in pure python. 💫"
 - [Django LiveView](https://github.com/Django-LiveView/liveview).
   "Django template for creating a complete HTML over the Wire site or LiveView."
+- [Django Unicorn](https://www.django-unicorn.com).
+  "Django Unicorn is a library that enables real-time, reactive components in Django applications using simple Python and HTML, reducing the need for extensive JavaScript."
 - [dominator](https://github.com/FFY00/dominator).
   "Control the DOM from Python (PoC!)"
 - [jyserver](https://github.com/ftrias/jyserver).
@@ -113,7 +115,6 @@ You may see libraries that are not maintained, not ready for production, or both
 - [starlette_live](https://github.com/alex-oleshkevich/starlette_live).
   "Live view for Starlette"
 - [WDOM](https://github.com/miyakogi/wdom). "WDOM is a Python GUI library for browser-based desktop applications."
-- [Django Unicorn](https://www.django-unicorn.com). " Django Unicorn is a library that enables real-time, reactive components in Django applications using simple Python and HTML, reducing the need for extensive JavaScript."
 
 ### Ruby
 
